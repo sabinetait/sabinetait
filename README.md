@@ -21,7 +21,7 @@ A recent graduate of Juno College’s Immersive Web Development Bootcamp, I'm lo
 * taking long walks to Toronto’s many coffee shops ☕️
 * travelling (soon I hope!) ✈️🤞🏽🗺
 
-### Currenlty working on:
+### Currently working on:
 * backronym generator app 🔠
 * Arcane memory card game 🧠
 * habit tracker 📝
